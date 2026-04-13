@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "layouts": [
+    {
+      "id": "hero-001",
+      "name": "Hero Simples",
+      "category": "hero",
+      "thumbnail": "https://seuusuario.github.io/buildv-themes/thumbs/hero-001.jpg",
+      "template_url": "https://seuusuario.github.io/buildv-themes/templates/hero-001.json"
+    },
+    {
+      "id": "footer-001",
+      "name": "Footer Corporativo",
+      "category": "footer",
+      "thumbnail": "https://seuusuario.github.io/buildv-themes/thumbs/footer-001.jpg",
+      "template_url": "https://seuusuario.github.io/buildv-themes/templates/footer-001.json"
+    }
+  ]
+}
